@@ -1,0 +1,49 @@
+h2{
+  border-top:10px solid #0a9992;
+}
+
+.d-flex{
+  display:flex
+}
+
+header{
+  background-color:#0a9992;
+  color:#ffffff;
+  /* outline-color:black; */
+  display: flex;
+}
+
+.title{
+  padding-left: 15em;
+  padding-right: 5em;
+  flex: 0 3 65%;
+  font-size: 14pt;
+}
+
+.article{ 
+padding-left: 2em;
+padding-top: 5em;
+padding-right: 5em;
+font-size: 10pt;
+
+flex:0 5 30%;
+}
+
+
+
+
+footer{
+background-color:#0a9992;
+height: 10em;
+margin: 0em;
+}
+
+body{
+  margin: 0;
+
+}
+
+
+
+
+
